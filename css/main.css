@@ -1,0 +1,11 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+.footer {
+    --bulma-footer-padding: 1rem 1.5rem 3rem;
+}
+
